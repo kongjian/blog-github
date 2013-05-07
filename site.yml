@@ -1,0 +1,16 @@
+title : Nklike
+tagline: Blog Tagline
+author :
+  name : Li Ke
+  email : nklike@taobao.com
+  github : kongjian
+  twitter : taobaolike
+  feedburner : feedname
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  
